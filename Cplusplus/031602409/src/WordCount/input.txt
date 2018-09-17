@@ -1,0 +1,11 @@
+a
+abcd
+abcd1234
+~abcd
+ abcd
+file
+FILE
+123file
+FILE123
+word~word~word~Word
+
